@@ -6,6 +6,6 @@ def potencia_numero(a,b):
     return potencia
 
 numero=int(input("Ingrese un numero: "))
-numero2=int(input("Ingrese la potencia del numero: "))
+numero2=int(input("Ingrese la potencia del numero:"))
 resultado=potencia_numero(numero,numero2)
 print(resultado)

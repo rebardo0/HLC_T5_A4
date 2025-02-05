@@ -7,6 +7,6 @@ def factorial_numero(numero):
 
     return factorial
 
-numero=int(input("Introduce un número: "))
+numero=int(input("Introduce un número:"))
 resultado=factorial_numero(numero)
 print(resultado)
